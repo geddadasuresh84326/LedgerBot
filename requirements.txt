@@ -1,0 +1,9 @@
+phidata
+sqlalchemy
+mysql-connector-python
+groq
+Flask
+elevenlabs
+openai
+
+-e .

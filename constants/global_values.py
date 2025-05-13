@@ -1,0 +1,6 @@
+hostname = "127.0.0.1"
+username = "root"
+port = "3306"
+database = "bill_management"
+password = "62348"
+VOICE_ID = "EXAVITQu4vr4xnSDxMaL"  
